@@ -1,0 +1,163 @@
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\Tatem Pearson\Documents\Computer Programming\hangman\hangman.py 
+ _   _    
+| | | |   
+| |_| | __ _ _ __   __ _ _ __ ___   __ _ _ __  
+|  _  |/ _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+| | | | (_| | | | | (_| | | | | | | (_| | | | |
+\_| |_/\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                    __/ |                      
+                   |___/ 
+-----
+         ,--./,-. 
+        / #      \
+       |          | 
+        \        /   
+         `._,._,'  
+Protect your food from the ants!
+-----
+Guess a letter: m
+m-m--
+         ,--./,-. 
+        / #      \
+       |          | 
+        \        /   
+         `._,._,'  
+Protect your food from the ants!
+Guess a letter: e
+meme-
+         ,--./,-. 
+        / #      \
+       |          | 
+        \        /   
+         `._,._,'  
+Protect your food from the ants!
+Guess a letter: s
+memes
+         ,--./,-. 
+        / #      \
+       |          | 
+        \        /   
+         `._,._,'  
+Protect your food from the ants!
+You win!
+Would you like to play again? (y/n) y
+-----
+         ,--./,-. 
+        / #      \
+       |          | 
+        \        /   
+         `._,._,'  
+Protect your food from the ants!
+-----
+Guess a letter: q
+-----
+Guess a letter: q
+-----
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+Guess a letter: q
+-----
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+Guess a letter: q
+-----
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+Guess a letter: q
+-----
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+Guess a letter: q
+-----
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+Guess a letter: q
+-----
+The ants got your food!
+         ,--./,-. 
+        / #      \
+       |          | 
+        \        /   
+         `._,._,'  
+         \__ 
+         (o )     ___ 
+         <>(_)(_)(___)
+           < < > >    
+           ' ' ` `     
+Too bad, it was good food!
+Would you like to play again? (y/n) n
+This game was made by : 
+_____   __   _____  ____  _       
+ | |   / /\   | |  | |_  | |\/|  
+ |_|  /_/--\  |_|  |_|__ |_|  |   
+ _   _   ___   _    __   ___   _  ____ 
+/ | / | |___| / |  / /  |___| / |  / / 
+|_| |_|       |_| (_)_)       |_| /_/ 
